@@ -864,7 +864,7 @@ Internet-Draft                  SIIT-EAM                    October 2015
                                  Figure 8
 
    Figure 8 illustrates how a normal (i.e., not an ICMP error) IPv6
-   packet sent from 2001:db8:aaaa:: towards 64:ff9b::192.0.2.2 is is
+   packet sent from 2001:db8:aaaa:: towards 64:ff9b::192.0.2.2 is
    hairpinned.  In this example, rule #1 in Section 4.2.1 was applied in
    order to disable the EAM algorithm when translating the intermediate
    IPv4 source address to IPv6.
